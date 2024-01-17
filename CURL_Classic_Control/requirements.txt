@@ -1,0 +1,7 @@
+openai-gym
+opencv-python
+plotly
+torch
+torchvision
+kornia
+tqdm

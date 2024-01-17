@@ -1,0 +1,19 @@
+name: curl
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pytorch
+  - cudatoolkit
+  - absl-py
+  - spyder
+  - pyparsing
+  - pillow
+  - atari_py
+  - opencv
+  - plotly
+  - kornia
+  - tqdm
+  - gym
+  - scikit-image
